@@ -5,7 +5,7 @@
 📫 How to reach me:https://www.linkedin.com/in/atharv-shinde-782270249/
 <br>
 <br>
-👨‍💻 Writing code, fixing bugs, and sipping coffee. Let's build something great
+👨‍💻 Writing code, fixing bugs, and sipping coffee. Let's build something great together.
 <!--
 **atharvs007/atharvs007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
