@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning MERN Stack.
+🌱 I’m currently learning MERN Stack.
 <br>
 <br>
 📫 How to reach me:https://www.linkedin.com/in/atharv-shinde-782270249/
