@@ -6,6 +6,9 @@
 <br>
 <br>
 👨‍💻 Writing code, fixing bugs, and sipping coffee. Let's build something great together.
+<br>
+<br>
+"🌐 Fun fact: When I'm not coding, I love exploring new AI Technologies and it was an amazing learning experience!".
 <!--
 **atharvs007/atharvs007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I recently built a personal project using Next.js and Tailwind CSS
 -->
