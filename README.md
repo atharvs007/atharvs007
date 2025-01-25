@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m currently learning MERN Stack.
+📫 How to reach me:https://www.linkedin.com/in/atharv-shinde-782270249/
 <!--
 **atharvs007/atharvs007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
