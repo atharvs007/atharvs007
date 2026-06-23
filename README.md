@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning MERN Stack.
+🌱 I’m currently learning AI Engineering.
 <br>
 <br>
 📫 How to reach me: https://x.com/imatharvshinde
