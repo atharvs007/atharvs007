@@ -5,7 +5,7 @@
 📫 How to reach me: https://x.com/imatharvshinde
 <br>
 <br>
-👨‍💻 Writing code,fixing bugs, and sipping coffee. Let's build something great together.
+👨‍💻 Writing code, fixing bugs, and sipping coffee. Let's build something great together.
 <br>
 <br>
 "🌐 Fun fact: When I'm not coding, I love exploring new AI Technologies and it was an amazing learning experience!!".
