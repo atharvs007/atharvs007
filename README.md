@@ -2,7 +2,7 @@
 🌱 I’m currently learning AI Engineering.
 <br>
 <br>
-📫 How to reach me: https://x.com/imatharvshinde
+📫 How to reach me: https://www.linkedin.com/in/atharv-shinde-782270249/
 <br>
 <br>
 👨‍💻 Writing code, fixing bugs, and sipping coffee. Let's build something great together.
